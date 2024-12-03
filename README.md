@@ -1,40 +1,40 @@
 # HypeFit_1
 Istinye University Student Projects.
 
-Proje Hakkında
+## Proje Hakkında
 Bu uygulama, kullanıcıların günlük aktivite, kalori alımı, uyku ve diğer sağlık verilerini takip etmelerine olanak sağlayacak. Ayrıca, kullanıcının profiline ve hedeflerine uygun öneriler, planlar sunmayı amaçlıyor.  Kişiselleştirilmiş arayüz, streak takip sistemi, sağlıklı yemek tarifleri ve sosyal etkileşim özelliklerinin olması planlanıyor.
 
-Ekibimiz
-Danışman:
+## Ekibimiz
+## Danışman:
 [https://github.com/keyvanarasteh](Keyvan Arasteh)
 
-Takım Üyeleri:
+## Takım Üyeleri:
 
 [https://github.com/whaticecelik](Hatice Çelik)
 
-Özellikler
+## Özellikler
 [Ana özellik 1]
 
 [Ana özellik 2]
 
 [Ana özellik 3]
 
-Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 Flutter
 
 Dart
 
 [Diğer teknolojiler]
 
-Başlangıç
-Gereksinimler
+## Başlangıç
+## Gereksinimler
 Flutter SDK (sürüm X.X.X)
 
 Dart SDK (sürüm X.X.X)
 
 [Diğer gerekli yazılımlar]
 
-Kurulum Adımları
+## Kurulum Adımları
 Projeyi bilgisayarınıza indirin:
 git  clone [proje-adresi]
 Proje klasörüne gidin:
@@ -57,10 +57,10 @@ lib/
 
 └── yardımcılar/ # Yardımcı fonksiyonlar
 
-Ekran Görüntüleri
+## Ekran Görüntüleri
 [Uygulama ekran görüntüleri buraya eklenecek]
 
-Projeye Katkı Sağlama
+## Projeye Katkı Sağlama
 Projeyi forklayın
 
 Yeni bir dal oluşturun (git checkout -b ozellik/YeniOzellik)
@@ -74,12 +74,12 @@ Pull Request oluşturun
 Lisans
 [Lisans türü] kapsamında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
 
-İletişim
+## İletişim
 Proje Bağlantısı: [(https://github.com/whaticecelik/HypeFit_1.git)]
 
 İstinye Üniversitesi: https://www.istinye.edu.tr/
 
-Teşekkürler
+## Teşekkürler
 İstinye Üniversitesi'ne destekleri için teşekkür ederiz
 
 [Diğer teşekkürler]
