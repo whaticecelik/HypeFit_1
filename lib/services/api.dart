@@ -1,0 +1,1 @@
+// sunucuya bağlanmak için
