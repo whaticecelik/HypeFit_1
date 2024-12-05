@@ -1,1 +1,0 @@
-// açılış ekranı için
