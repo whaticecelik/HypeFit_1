@@ -69,7 +69,7 @@ lib/
 ---
 
 ### Ekran Görüntüleri  
-![ekran0](https://github.com/user-attachments/assets/6d5cc12b-6629-4dce-8e6d-7098e88d2d77)
+![ekran0](https://github.com/user-attachments/assets/7fb4ce91-50af-430e-891b-80262405d0c9)
 ![ekran1](https://github.com/user-attachments/assets/f8f1d83f-e1d7-4141-91f4-b91bbb25092c)
 ![ekran1 2](https://github.com/user-attachments/assets/7409b714-87aa-414b-b09b-ddbcb5bd6ed3)
 ![ekran1 3](https://github.com/user-attachments/assets/9c9d9f3e-19b7-4954-b91d-681dac446585)
