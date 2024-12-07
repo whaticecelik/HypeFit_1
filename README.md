@@ -2,7 +2,7 @@
 ---
 
 ### Proje Hakkında  
-Fitness uygulamanız, kullanıcıların günlük aktivitelerini takip etmelerini, egzersiz planlarını oluşturup uygulamalarını ve beslenme verilerini kaydetmelerini sağlayan bir platformdur.
+HypeFit, kullanıcıların günlük aktivitelerini takip etmelerini, özenle hazırlanmış egzersiz planlarını uygulamaları ve beslenme verilerini kaydetmelerini sağlayan bir platformdur.
 
 **Amaç:**  
 Kullanıcıların sağlıklı yaşam tarzlarını benimsemelerine yardımcı olmak ve egzersizlerini, diyetlerini takip etmelerini kolaylaştırmak.
@@ -19,15 +19,17 @@ Kullanıcıların sağlıklı yaşam tarzlarını benimsemelerine yardımcı olm
 ---
 
 ### Özellikler  
-- **Aktivite Takibi:** Kullanıcılar, günlük egzersiz ve aktivite verilerini kaydedebilirler.
-- **Egzersiz Planlayıcı:** Farklı fitness seviyelerine uygun egzersiz planları oluşturulabilir.
+- **Aktivite Takibi:** Kullanıcılar, günlük egzersiz, aktivite, sağlık verileri ve içiilen su miktarları gibi verileri takip edebilirler.
+- **Egzersiz Planlayıcı:** Farklı seviyelere uygun egzersiz planlarından yararlanabilirler.
+- **Sağlıklı Tarifler:** Kullanıcılar sağlıklı yemek, tatlı ve içecek tariflerine kolayca ulaşabilirler.
 - **Beslenme Takibi:** Kullanıcılar yedikleri yemekleri ve kalori miktarlarını takip edebilirler.
+- **Streak Takibi:** Kullanıcılar streak takibi sayesinde motivasyonlarını korurlar.
 
 ---
 
 ### Kullanılan Teknolojiler  
-- **Flutter:** Uygulama geliştirme için temel framework.
-- **Dart:** Flutter uygulamaları için kullanılan programlama dili.
+- **Flutter** 
+- **Dart**
 
 ---
 
