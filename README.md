@@ -1,5 +1,4 @@
-
-(assets/images/unilogo.png)
+[assets/images/unilogo.png]
 ---
 
 ### Proje Hakkında  
@@ -68,15 +67,14 @@ lib/
 ---
 
 ### Ekran Görüntüleri  
-[Uygulama ekran görüntüleri buraya eklenecek]
-(assets/images/ekran0.png)
-(assets/images/ekran1.png)
-(assets/images/ekran1.2.png)
-(assets/images/ekran1.3.png)
-(assets/images/ekran2.png)
-(assets/images/ekran3.png)
-(assets/images/ekran4.png)
-(assets/images/ekran4.2.png)
+[assets/images/ekran0.png]
+[assets/images/ekran1.png]
+[assets/images/ekran1.2.png]
+[assets/images/ekran1.3.png]
+[assets/images/ekran2.png]
+[assets/images/ekran3.png]
+[assets/images/ekran4.png]
+[assets/images/ekran4.2.png]
 ---
 
 ### Projeye Katkı Sağlama  
