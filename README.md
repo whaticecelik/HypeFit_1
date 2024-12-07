@@ -1,87 +1,105 @@
-# HypeFit_1
-Istinye University Student Projects.
 
-## Proje Hakkında
-Bu uygulama, kullanıcıların günlük aktivite, kalori alımı, uyku ve diğer sağlık verilerini takip etmelerine olanak sağlayacak. Ayrıca, kullanıcının profiline ve hedeflerine uygun öneriler, planlar sunmayı amaçlıyor.  Kişiselleştirilmiş arayüz, streak takip sistemi, sağlıklı yemek tarifleri ve sosyal etkileşim özelliklerinin olması planlanıyor.
+(assets/images/unilogo.png)
+---
 
-## Ekibimiz
-## Danışman:
-[https://github.com/keyvanarasteh](Keyvan Arasteh)
+### Proje Hakkında  
+Fitness uygulamanız, kullanıcıların günlük aktivitelerini takip etmelerini, egzersiz planlarını oluşturup uygulamalarını ve beslenme verilerini kaydetmelerini sağlayan bir platformdur.
 
-## Takım Üyeleri:
+**Amaç:**  
+Kullanıcıların sağlıklı yaşam tarzlarını benimsemelerine yardımcı olmak ve egzersizlerini, diyetlerini takip etmelerini kolaylaştırmak.
 
-[https://github.com/whaticecelik](Hatice Çelik)
+---
 
-## Özellikler
-[Ana özellik 1]
+### Ekibimiz  
+**Danışman:**  
+[Keyvan Arasteh](https://github.com/keyvanarasteh)
 
-[Ana özellik 2]
+**Takım Üyeleri:**  
+- [Hatice Çelik](https://github.com/whaticecelik)
 
-[Ana özellik 3]
+---
 
-## Kullanılan Teknolojiler
-Flutter
+### Özellikler  
+- **Aktivite Takibi:** Kullanıcılar, günlük egzersiz ve aktivite verilerini kaydedebilirler.
+- **Egzersiz Planlayıcı:** Farklı fitness seviyelerine uygun egzersiz planları oluşturulabilir.
+- **Beslenme Takibi:** Kullanıcılar yedikleri yemekleri ve kalori miktarlarını takip edebilirler.
 
-Dart
+---
 
-[Diğer teknolojiler]
+### Kullanılan Teknolojiler  
+- **Flutter:** Uygulama geliştirme için temel framework.
+- **Dart:** Flutter uygulamaları için kullanılan programlama dili.
 
-## Başlangıç
-## Gereksinimler
-Flutter SDK (sürüm X.X.X)
+---
 
-Dart SDK (sürüm X.X.X)
+### Başlangıç
 
-[Diğer gerekli yazılımlar]
+**Gereksinimler:**  
+- Flutter SDK 3.24.5
+- Dart SDK 3.5.4
+- Visual Studio Code
 
-## Kurulum Adımları
-Projeyi bilgisayarınıza indirin:
-git  clone [proje-adresi]
-Proje klasörüne gidin:
-cd [proje-adı]
-Gerekli paketleri yükleyin:
-flutter  pub  get
-Uygulamayı başlatın:
-flutter  run
-Proje Yapısı
+**Kurulum Adımları:**  
+1. Projeyi bilgisayarınıza indirin:  
+   `git clone [proje-adresi]`
+   
+2. Proje klasörüne gidin:  
+   `cd [proje-adı]`
 
+3. Gerekli paketleri yükleyin:  
+   `flutter pub get`
+
+4. Uygulamayı başlatın:  
+   `flutter run`
+
+---
+
+### Proje Yapısı  
+```
 lib/
 
-├── modeller/ # Veri modelleri
+├── modeller/          # Veri modelleri (Kullanıcı, Egzersiz, Beslenme)
+├── ekranlar/          # Uygulama ekranları (Ana ekran, Profil, Egzersiz Planı)
+├── widgets/           # Tekrar kullanılabilir arayüz öğeleri (Butonlar, Formlar)
+├── servisler/         # API servisleri (Firebase bağlantıları, Google Fit API)
+└── yardımcılar/       # Yardımcı fonksiyonlar (Veri formatlama, hesaplamalar)
+```
 
-├── ekranlar/ # Uygulama ekranları
+---
 
-├── widgets/ # Tekrar kullanılabilir arayüz öğeleri
-
-├── servisler/ # API servisleri
-
-└── yardımcılar/ # Yardımcı fonksiyonlar
-
-## Ekran Görüntüleri
+### Ekran Görüntüleri  
 [Uygulama ekran görüntüleri buraya eklenecek]
+(assets/images/ekran0.png)
+(assets/images/ekran1.png)
+(assets/images/ekran1.2.png)
+(assets/images/ekran1.3.png)
+(assets/images/ekran2.png)
+(assets/images/ekran3.png)
+(assets/images/ekran4.png)
+(assets/images/ekran4.2.png)
+---
 
-## Projeye Katkı Sağlama
-Projeyi forklayın
+### Projeye Katkı Sağlama  
+1. Projeyi forklayın  
+2. Yeni bir dal oluşturun (git checkout -b ozellik/YeniOzellik)  
+3. Değişikliklerinizi kaydedin (git commit -m 'Yeni özellik eklendi')  
+4. Dalınıza gönderin (git push origin ozellik/YeniOzellik)  
+5. Pull Request oluşturun
 
-Yeni bir dal oluşturun (git checkout -b ozellik/YeniOzellik)
+---
 
-Değişikliklerinizi kaydedin (git commit -m 'Yeni özellik eklendi')
-
-Dalınıza gönderin (git push origin ozellik/YeniOzellik)
-
-Pull Request oluşturun
-
-Lisans
+### Lisans  
 [Lisans türü] kapsamında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
 
-## İletişim
-Proje Bağlantısı: [(https://github.com/whaticecelik/HypeFit_1.git)]
+---
 
-İstinye Üniversitesi: https://www.istinye.edu.tr/
+### İletişim  
+Proje Bağlantısı: [https://github.com/whaticecelik/HypeFit.git]  
+İstinye Üniversitesi: [www.istinye.edu.tr](https://www.istinye.edu.tr/)
 
-## Teşekkürler
-İstinye Üniversitesi'ne destekleri için teşekkür ederiz
+---
 
-[Diğer teşekkürler]
+### Teşekkürler  
+İstinye Üniversitesi'ne destekleri için teşekkür ederiz.
 
-Bunlari degistirmeniz gerekmektedir ;-)
+---

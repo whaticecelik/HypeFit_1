@@ -68,15 +68,15 @@ class ProfileScreen extends StatelessWidget {
                   children: [
                     FitnessStatCard(
                       label: 'Workouts',
-                      value: '120', // Replace with dynamic data
+                      value: '120',
                     ),
                     FitnessStatCard(
                       label: 'Calories Burned',
-                      value: '2500 kcal', // Replace with dynamic data
+                      value: '2500 kcal', 
                     ),
                     FitnessStatCard(
                       label: 'Goals Completed',
-                      value: '5', // Replace with dynamic data
+                      value: '5', 
                     ),
                   ],
                 ),
@@ -94,26 +94,24 @@ class ProfileScreen extends StatelessWidget {
               const SizedBox(height: 8),
               ProfileInfoCard(
                 label: 'Age',
-                value: '28', // Replace with dynamic data
+                value: '28', 
               ),
               ProfileInfoCard(
                 label: 'Height',
-                value: '180"', // Replace with dynamic data
+                value: '180"', 
               ),
               ProfileInfoCard(
                 label: 'Weight',
-                value: '71 kg', // Replace with dynamic data
+                value: '71 kg', 
               ),
               const SizedBox(height: 32),
 
-              // Edit Profile Button
               Center(
                 child: ElevatedButton(
                   onPressed: () {
-                    // Navigate to edit profile screen
                   },
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: const Color.fromARGB(255, 255, 255, 255), // Adjust button color if needed
+                    backgroundColor: const Color.fromARGB(255, 255, 255, 255), 
                     padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 12),
                   ),
                   child: const Text(

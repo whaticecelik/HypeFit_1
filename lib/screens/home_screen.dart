@@ -39,14 +39,14 @@ class HomeScreen extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // Greeting Section with Streak Count as Fire Icon on the Right
+              
               Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween, // Ensures spacing between greeting and streak count
+                mainAxisAlignment: MainAxisAlignment.spaceBetween, 
                 children: [
                   Row(
                     children: [
                       CircleAvatar(
-                        backgroundImage: AssetImage('assets/images/user.jpg'), // Replace with your asset
+                        backgroundImage: AssetImage('assets/images/user.jpg'), 
                         radius: 20,
                       ),
                       SizedBox(width: 10),
@@ -97,10 +97,10 @@ class HomeScreen extends StatelessWidget {
                     child: HealthCard(
                       title: 'BMI',
                       value: '21.6',
-                      color: Colors.white,  // New color for the card
+                      color: Colors.white,  
                       icon: Icons.accessibility,
                       onEdit: () {
-                        // Add your edit functionality here for BMI
+                        
                       },
                     ),
                   ),
@@ -112,7 +112,7 @@ class HomeScreen extends StatelessWidget {
                       color: Colors.white,  // New color for the card
                       icon: Icons.favorite,
                       onEdit: () {
-                        // Add your edit functionality here for Heart Rate
+                        
                       },
                     ),
                   ),
@@ -128,7 +128,6 @@ class HomeScreen extends StatelessWidget {
                       color: Colors.white,  // New color for the card
                       icon: Icons.directions_walk,
                       onEdit: () {
-                        // Add your edit functionality here for Steps
                       },
                     ),
                   ),
@@ -140,7 +139,6 @@ class HomeScreen extends StatelessWidget {
                       color: Colors.white,  // New color for the card
                       icon: Icons.local_drink,
                       onEdit: () {
-                        // Add your edit functionality here for Water Intake
                       },
                     ),
                   ),
@@ -165,7 +163,7 @@ class HomeScreen extends StatelessWidget {
                     _buildExerciseCard('Weight Training', Icons.fitness_center, 'assets/images/weight_training.jpg'),
                     _buildExerciseCard('Yoga', Icons.self_improvement, 'assets/images/yoga.jpg'),
                     _buildExerciseCard('Pilates', Icons.fitness_center, 'assets/images/pilates.jpeg'), 
-                    _buildExerciseCard('Stretching', Icons.accessibility, 'assets/images/stretching.jpeg'), // Added Pilates card
+                    _buildExerciseCard('Stretching', Icons.accessibility, 'assets/images/stretching.jpeg'), 
                   ],
                 ),
               ),
@@ -203,9 +201,9 @@ class HomeScreen extends StatelessWidget {
 
   Widget _buildExerciseCard(String title, IconData icon, String imagePath) {
     return Container(
-      width: 180,  // Fixed width for the cards
-      height: 200, // Fixed height for the cards
-      margin: EdgeInsets.only(right: 10),  // Spacing between cards
+      width: 180,  
+      height: 200, 
+      margin: EdgeInsets.only(right: 10),  
       child: Card(
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(16),
@@ -300,7 +298,7 @@ class HealthCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      color: color,  // New background color for the health cards
+      color: color,  
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(16),
       ),
