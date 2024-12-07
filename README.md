@@ -1,4 +1,4 @@
-[assets/images/unilogo.png]
+![unilogo](https://github.com/user-attachments/assets/0db2938a-d678-4017-9e44-abbd77b4b6a2)
 ---
 
 ### Proje Hakkında  
@@ -67,14 +67,14 @@ lib/
 ---
 
 ### Ekran Görüntüleri  
-[assets/images/ekran0.png]
-[assets/images/ekran1.png]
-[assets/images/ekran1.2.png]
-[assets/images/ekran1.3.png]
-[assets/images/ekran2.png]
-[assets/images/ekran3.png]
-[assets/images/ekran4.png]
-[assets/images/ekran4.2.png]
+![ekran0](https://github.com/user-attachments/assets/6d5cc12b-6629-4dce-8e6d-7098e88d2d77)
+![ekran1](https://github.com/user-attachments/assets/f8f1d83f-e1d7-4141-91f4-b91bbb25092c)
+![ekran1 2](https://github.com/user-attachments/assets/7409b714-87aa-414b-b09b-ddbcb5bd6ed3)
+![ekran1 3](https://github.com/user-attachments/assets/9c9d9f3e-19b7-4954-b91d-681dac446585)
+![ekran2](https://github.com/user-attachments/assets/4d6cefcd-7dca-4d2e-bd97-9015f5f75373)
+![ekran3](https://github.com/user-attachments/assets/010f0674-53b6-443f-826f-354cf03e94d6)
+![ekran4](https://github.com/user-attachments/assets/888a604b-1292-4c2e-b92a-e44fcaf60496)
+![ekran4 2](https://github.com/user-attachments/assets/7b87adb1-8933-4122-9a8e-37b90593d43f)
 ---
 
 ### Projeye Katkı Sağlama  
